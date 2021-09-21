@@ -3,7 +3,7 @@ Hey! I’m @mattraabe
 I’m interested in:
 - Automation
 - Data Analytics
-- Visualisation
+- Network Development
 
 I’m currently learning:
 - Python
