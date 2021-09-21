@@ -1,16 +1,10 @@
-Hey! I’m @mattraabe
+Hey!
 
-I’m interested in:
-- Automation
-- Data Analytics
-- Network Development
+My passion for learning and supporting others is ever-growing and strengthens with every valuable opportunity that I experience. Similarly, I continuously reflect on my successes, failures, strengths, and weaknesses, further improving my ability to learn and adapt.
 
-I’m currently learning:
-- Python
-- Microsoft BI
-- Database Management
+I'm always looking for new and fun ways to innovate, automate and analyse.
 
-<!---
-mattraabe/mattraabe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+My primary interests are:
+* Statistics (Data analysis, extraction and visualisation)
+* Network Management and Development
+* Self-Hosting
