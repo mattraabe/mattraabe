@@ -1,4 +1,4 @@
-<h3 align="center"> Hello, my Name is Matt and i'm Addicted to Learning. </h3>
+<h3 align="center"> Hi MTV, Welcome to my Crib </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mattraabe/"><img alt="linkedin" title="Connect with me on LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-white"/></a>
