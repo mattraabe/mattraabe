@@ -8,6 +8,3 @@ My primary interests are:
 * Statistics (Data analysis, extraction and visualisation)
 * Network Management and Development
 * Self-Hosting
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
