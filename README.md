@@ -24,6 +24,8 @@ I'm always looking for new and exciting ways to innovate and automate.
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/rapidapi/rapidapi-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/grafana/grafana-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/influxdata/influxdata-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg"></code>
 </p>
 
 <h3> Self-Hosting & Web Development </h3>
