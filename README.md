@@ -6,7 +6,7 @@
 </p>
 
 ## About me
-My passion for learning and supporting others is ever-growing and strengthens with every valuable opportunity that I experience. Similarly, I continuously reflect on my successes, failures, strengths, and weaknesses, further improving my ability to learn and adapt.
+Although I lack professional experience with IT oriented roles, my passion for learning and supporting others is ever-growing and strengthens with every valuable opportunity that I experience. Similarly, I continuously reflect on my successes, failures, strengths, and weaknesses, further improving my ability to learn and adapt.
 
 I'm always looking for new and exciting ways to innovate and automate.
 
@@ -21,7 +21,6 @@ I'm always looking for new and exciting ways to innovate and automate.
 <h3> Data </h3>
 <p>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/rapidapi/rapidapi-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/grafana/grafana-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/influxdata/influxdata-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-ar21.svg"></code>
