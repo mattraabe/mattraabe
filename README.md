@@ -6,13 +6,11 @@
 </p>
 
 ## About me
-Although I lack professional experience with IT oriented roles, my passion for learning and supporting others is ever-growing and strengthens with every valuable opportunity that I experience. Similarly, I continuously reflect on my successes, failures, strengths, and weaknesses, further improving my ability to learn and adapt.
-
-I'm always looking for new and exciting ways to innovate and automate.
+Although I lack the qualifications that are traditionally obtained by attending university, my passion for learning and developing my skills is ever-growing and strengthens with every opportunity. Additionally, continous reflection upon my successes, failures, strengths, and weaknesses, further improves my ability.
 
 ## My primary interests are:
-* Statistics (Data analysis, extraction and visualisation)
-* Network Management and Development
+* Data Analytics
+* Network Management (Security and Development)
 * Self-Hosting
 
 
@@ -34,11 +32,6 @@ I'm always looking for new and exciting ways to innovate and automate.
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/cloudflare/cloudflare-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
-</p>
-
-<h3> IDEs </h3>
-<p>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
 </p>
 
 ## 📈 Github Stats
