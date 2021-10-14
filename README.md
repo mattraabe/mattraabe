@@ -6,7 +6,7 @@
 </p>
 
 ## About me
-Although I lack the qualifications that are traditionally obtained by attending university, my passion for learning and developing my skills is ever-growing and strengthens with every opportunity. Additionally, continous reflection upon my successes, failures, strengths, and weaknesses, further improves my ability.
+Although I lack the qualifications that are traditionally obtained by attending university, my passion for learning is ever-growing and strengthens with every opportunity. Additionally, continous reflection upon my successes, failures, strengths, and weaknesses, further improves my ability.
 
 ## My primary interests are:
 * Data Analytics
