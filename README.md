@@ -1,6 +1,5 @@
-<h3 align="center"> Hi MTV, Welcome to my Crib </h3>
-
-<p align="center">
+# Matt Raabe (RaabeyDaabey)
+<p align="left">
   <a href="https://www.linkedin.com/in/mattraabe/"><img alt="linkedin" title="Connect with me on LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-white"/></a>
   <a href="https://github.com/mattraabe"><img alt="github" title="Follow me on Github" src="https://img.shields.io/github/followers/mattraabe?style=social"/></a>
 </p>
@@ -33,16 +32,3 @@ Although I lack the qualifications that are traditionally obtained by attending 
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
 </p>
-
-## 📈 Github Stats
-
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-  <summary>📊 GitHub Profile Stats</summary>
-  <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="mattraabe's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mattraabe&show_icons=true&count_private=true&hide=" /></a>
-  <summary>💻 Most used languages</summary>
-  <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="mattraabe's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattraabe&langs_count=10&layout=compact#" /></a>
-  <br/>
-  <b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
-
