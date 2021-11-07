@@ -4,8 +4,6 @@
   <a href="https://github.com/mattraabe"><img alt="github" title="Follow me on Github" src="https://img.shields.io/github/followers/mattraabe?style=social"/></a>
 </p>
 
-## About me
-Although I lack the qualifications that are traditionally obtained by attending university, my passion for learning is ever-growing and strengthens with every opportunity. Additionally, continuous reflection upon my successes, failures, strengths, and weaknesses, further improves my ability.
 
 ## My primary interests are:
 * Data Analytics
