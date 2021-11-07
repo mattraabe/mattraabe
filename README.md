@@ -20,7 +20,7 @@
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg"></code>
 </p>
 
-### Databases/Storage
+### Data Storage
 <p>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/influxdata/influxdata-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/mariadb/mariadb-ar21.svg"></code>
