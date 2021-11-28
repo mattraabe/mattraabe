@@ -1,10 +1,4 @@
-## Matt Raabe <br> Aspiring Data Scientist
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/mattraabe/"><img alt="linkedin" title="Connect with me on LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-white"/></a>
-  <a href="https://github.com/mattraabe"><img alt="github" title="Follow me on Github" src="https://img.shields.io/github/followers/mattraabe?style=social"/></a>
-</p>
-
+# Matt Raabe <br> HR Professional | Aspiring Data Analyst
 
 ## Proficiencies
 
